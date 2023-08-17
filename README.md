@@ -5,13 +5,18 @@ To deploy this project
 nothing to do just use go live or open the html file with chrome or edge
 ```
 ## Screenshots
-  ![image](https://github.com/apurv212/rotating-card/assets/78818707/8ad597d8-58d6-4de8-b314-a89a2415a257)
+  ![App Screenshot](https://github.com/apurv212/rotating-card/assets/78818707/8b9651f1-059d-4856-839b-81501250b3c5)
+
+
 
 ## 2.
- ![image](https://github.com/apurv212/rotating-card/assets/78818707/5c88c0a5-cb05-456d-b73d-c1f8ed1f3511)
+ ![App Screenshot](https://github.com/apurv212/rotating-card/assets/78818707/687e5be1-e243-4027-8bb2-1ed058d83e1a))
 
 ## 3.
-![image](https://github.com/apurv212/rotating-card/assets/78818707/5e4bdf6b-872f-4ab0-8e2a-f93899c89725)
+  ![App Screenshot](https://github.com/apurv212/rotating-card/assets/78818707/442e6792-c22b-4d41-badd-628461222063)
+
+
+
 
 
 
